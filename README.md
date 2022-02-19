@@ -1,2 +1,2 @@
 # Android-Development-Practice
-Practicing and doing personal projects in Kotlin
+Practicing Kotlin
